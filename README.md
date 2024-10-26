@@ -1,8 +1,8 @@
 # Go-crud-challenge
 
 ## Implement Simple CRUD API
-
-Your task is to implement simple CRUD API using in-memory database underneath.  
+## please visit the API Documentation [https://documenter.getpostman.com/view/37356354/2sAY4sjjVe]
+Your task is to implement simple CRUD API using in-memory database underneath. 
 
 ## Details:
 
